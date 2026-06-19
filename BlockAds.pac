@@ -147,6 +147,4 @@ function FindProxyForURL(url, host) {
 // Initial load notification (if debugging is enabled)
 if (debug) {
     alert("Ad-blocking PAC file loaded, isEnabled = " + isEnabled);
-=======
->>>>>>> 3c479efe17479d82471b0fc670d9eb43f01e5740
 }
