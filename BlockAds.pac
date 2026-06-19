@@ -1,4 +1,4 @@
-﻿// Ads-Blocking Proxy Auto-Configuration (PAC) File
+// Ads-Blocking Proxy Auto-Configuration (PAC) File
 // Author: Gorstak
 // Modified to block URLs containing "xss" and updated blacklist
 
@@ -50,7 +50,6 @@ var adWebBugRegex = /(?:\/(?:1|blank|b|clear|pixel|transp|spacer)\.gif|\.swf)$/i
 
 // Blacklist: Explicitly blocked domains
 var blacklist = [
-    "forum.hr",
     "ad.doubleclick.net",
     "static.doubleclick.net",
     "r4---sn-a5meknlz.googlevideo.com",
