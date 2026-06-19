@@ -50,6 +50,7 @@ var adWebBugRegex = /(?:\/(?:1|blank|b|clear|pixel|transp|spacer)\.gif|\.swf)$/i
 
 // Blacklist: Explicitly blocked domains
 var blacklist = [
+    "forum.hr",
     "ad.doubleclick.net",
     "static.doubleclick.net",
     "r4---sn-a5meknlz.googlevideo.com",
